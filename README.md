@@ -1,16 +1,15 @@
-### Hi there 👋
+# Minha História com Código
 
-<!--
-**LucasGalhardi/LucasGalhardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Seja bem vindo ao meu perfil no GitHub. Aqui eu resolvi deixar uma breve linha do tempo com o que eu já trabalhei relacionado à programação durante minha trajetória na área iniciada em 2011.
 
-Here are some ideas to get you started:
+## Técnico em Informática / Senai Londrina (2011 - 2012)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+No curso técnico foi onde iniciei meus primeiros passos no mundo da programação! Foi onde fiz o primeiro e famoso Hello World, aprendi programação através de pseudolinguagem (portugol!), orientação à objetos com Java, desenvolvimento de layouts com HTML e CSS e por fim construção de uma aplicação completa utilizando C# para aplicação desktop com criação de interface "drag and drop". Essa aplicação foi o TCC do curso técnico, servindo para sintetizar o aprendizado daquele período em algo prático. A aplicação envolvia a contrução de um plano de negócios e o desenvolvimento de todo o sistema, da interface, lógica e banco de dados. O sistema em questão realizava todo o gerenciamento interno de um estacionamento. Um vídeo curto demonstrando seu funcionamento pode ser visto em https://youtu.be/m_zT962mOeY
+
+## Graduação em Ciência da Computação / Universidade Estadual de Londrina (2013 - 2016)
+
+Na graduação eu construí toda a minha base de conhecimentos na área. O curso me proporcionou o aprendizado da computação no geral, desde sua concepção até como ela se apresenta na atualidade.
+
+Durante os dois primeiros anos o curso é mais teórico, desenvolvendo a matemática, estatística e focando no desenvolvimento de lógica e resolução de problemas. Estudei bastante C em lógica de programação e em Estrutura de Dados. Já para orientação a objetos: Java. Nessa época o meu desenvolvimento de código consistiu basicamente dos exercícios exigidos nas disciplinas e um treino extra em sites como o Beecrowd (antigo URI) com desafios de programação. Além disso, aprendi por conta própria em cursos abertos sobre o desenvolvimento de aplicativos Android com Java nativo, desenvolvendo pequenos projetos propostos pelos cursos.
+
+No 3º ano (o mais puxado de todos!) percorremos um caminho pelas partes mais complexas da computação (como Compiladores e Teoria da Computação) mas também exercitamos a parte mais prática com a engenharia de software, desenvolvimento web e banco de dados. Nesse ano desenvolvi um projeto individualmente e um em equipe. O individual consistia na simulação de um aplicativo de transporte (como o Uber). O professor e seu aluno de mestrado na época nos passaram um código template inicial e deveríamos fazer todo o banco de dados (PostgreSQL) e fluxos da aplicação utilizando Java EE. O código dessa aplicação se encontra em: https://bitbucket.org/lucas_bg/projetotaxi/. Já o trabalho em equipe consistiu no desenvolvimento de uma aplicação web que fizesse todo o gerenciamento interno de uma ONG Londrinense (câncer infantil). Toda a turma realizou o mesmo projeto ao longo do ano e o da nossa equipe foi escolhido como o melhor pela ONG Viver para ser implantado. Realizamos a implantação do software no local. O código dessa aplicação (também em JAva EE) está disponível em: https://bitbucket.org/esviver/sistemaviver/. Outros projetos desse ano consistiram no desenvolvimento de um sistema de arquivos distribuído (https://bitbucket.org/lldcuel/sisarmazarquivos/) e utilizando RMI (https://bitbucket.org/lldcuel/trab_rmi_imagens/).
